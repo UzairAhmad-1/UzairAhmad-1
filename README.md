@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uzair Ahmad</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairahmad-1&label=Profile%20views&color=0e75b6&style=flat" alt="uzairahmad-1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzairahmad-1" alt="uzairahmad-1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/uzair469" target="blank"><img src="https://img.shields.io/twitter/follow/uzair469?logo=twitter&style=for-the-badge" alt="uzair469" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack mainly**
 
